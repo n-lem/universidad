@@ -1,2 +1,1 @@
-# universidad
-Ejercicios de las materias de la UNPAZ
+# Ejercicios de las materias de la UNPAZ
